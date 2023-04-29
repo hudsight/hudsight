@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm starhook</h1>
 <h3 align="center">VGK enjoyer.</h3>
 
-- 🔭 I’m currently working on a open source usermode anticheat..
+- 🔭 I’m currently working on a fortnite external.
 
 - 👀 I’m interested in: Gamehacking & Windows Kernel
 
